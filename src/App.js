@@ -1,14 +1,13 @@
-import { Button, DatePicker, version } from "antd";
+import logo from './logo.svg';
 import './App.css';
-import "antd/dist/antd.css";
-import LoginForm from "./LoginForm";
-import HelloWorld from "./HelloWorld";
-import Todo from "./todo";
-
+import SignUpForm from './signup/signupform';
 
 function App() {
   return (
-     <HelloWorld/>
+    <div className="App">
+      <h1>good </h1>
+      <SignUpForm/>
+    </div>
   );
 }
 
