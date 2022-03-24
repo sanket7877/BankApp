@@ -1,7 +1,9 @@
 function SignUpForm() {
     return (
-      <h2>goo morning</h2>,
-      <h3>NIce</h3>
+      <div>
+        <h1>yews</h1>
+        <h2>welcome to git</h2>
+      </div>
     );
   }
   
