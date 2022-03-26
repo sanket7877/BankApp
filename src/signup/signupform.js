@@ -1,7 +1,7 @@
 function SignUpForm() {
     return (
       <div>
-          <h1>This is Bank Application.</h1>
+          <h2>Welcome to development application.</h2>         
       </div>
     );
   }
